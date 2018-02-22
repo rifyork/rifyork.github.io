@@ -1,32 +1,38 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sharifyork.github.iio" resolutions="1x" timestamp="1519300851892">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sharifyork.com" resolutions="1x" timestamp="1519314362197">
   <folder name="css">
     <file name="site_global.css" crc="4029475474"/>
-    <file name="master_a-master.css" crc="397645388" ref="index:reel:resume"/>
-    <file name="nomq_preview_master_a-master.css" crc="398142059" ref="index:reel:resume"/>
-    <file name="index.css" crc="110158087" ref="index"/>
-    <file name="nomq_index.css" crc="3962369348" ref="index"/>
-    <file name="reel.css" crc="4293354736" ref="reel"/>
-    <file name="nomq_reel.css" crc="467992854" ref="reel"/>
-    <file name="resume.css" crc="3937731976" ref="resume"/>
-    <file name="nomq_resume.css" crc="3991520100" ref="resume"/>
+    <file name="master_a-master.css" crc="117181523" ref="reel:contact:index:resume"/>
+    <file name="nomq_preview_master_a-master.css" crc="199727954" ref="reel:contact:index:resume"/>
+    <file name="reel.css" crc="3765745731" ref="reel"/>
+    <file name="nomq_reel.css" crc="191400953" ref="reel"/>
+    <file name="contact.css" crc="167417114" ref="contact"/>
+    <file name="nomq_contact.css" crc="88068579" ref="contact"/>
+    <file name="index.css" crc="29033899" ref="index"/>
+    <file name="nomq_index.css" crc="3812431168" ref="index"/>
+    <file name="resume.css" crc="4200546226" ref="resume"/>
+    <file name="nomq_resume.css" crc="3860786188" ref="resume"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>reel:phone>resume:index:resume:reel"/>
-    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>reel:phone>resume:index:resume:reel"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>reel:phone>resume:index:resume:reel"/>
-    <file name="museconfig.js" crc="4153641093" ref="phone>index:phone>reel:phone>resume:index:resume:reel"/>
-    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>reel:phone>resume:index:resume:reel"/>
-    <file name="require.js" crc="4157109226" ref="phone>index:phone>reel:phone>resume:index:resume:reel"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:resume:reel"/>
-    <file name="webpro.js" crc="242022427" ref="index:resume:reel"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="index:resume:reel"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="index:resume:reel"/>
-    <file name="touchswipe.js" crc="4066113679" ref="index:resume:reel"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:resume:reel"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:resume:reel"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>reel:phone>resume:index:resume:reel:contact"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>reel:phone>resume:index:resume:reel:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>reel:phone>resume:index:resume:reel:contact"/>
+    <file name="museconfig.js" crc="4153641093" ref="phone>index:phone>reel:phone>resume:index:resume:reel:contact"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>reel:phone>resume:index:resume:reel:contact"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>reel:phone>resume:index:resume:reel:contact"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:resume:reel:contact"/>
+    <file name="webpro.js" crc="242022427" ref="index:resume:reel:contact"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:resume:reel:contact"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:resume:reel:contact"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:resume:reel:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:resume:reel:contact"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:resume:reel:contact"/>
+    <file name="form_check.php" crc="147359589" ref="contact"/>
+    <file name="form_throttle.php" crc="93986428" ref="contact"/>
+    <file name="form_process.php" crc="3851993751" ref="contact"/>
+    <file name="form-u48307.php" crc="408627243" ref="contact"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:resume:reel"/>
+    <file name="blank.gif" crc="4208392903" ref="index:resume:reel:contact"/>
     <file name="list_sideways01_shocase.png" crc="504526564" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -82,47 +88,59 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="if_mail_287559.png" crc="3949913367" seo="true" ref="index:resume:reel">
+    <file name="if_mail_287559.png" crc="3949913367" seo="true" ref="index:resume:reel:contact">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
       <caption webpage="reel" alt=""/>
       <caption webpage="reel" alt=""/>
       <caption webpage="reel" alt=""/>
       <caption webpage="reel" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
     </file>
-    <file name="if_circle-linkedin_317750.png" crc="112567275" seo="true" ref="index:resume:reel">
+    <file name="if_circle-linkedin_317750.png" crc="112567275" seo="true" ref="index:resume:reel:contact">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
       <caption webpage="reel" alt=""/>
       <caption webpage="reel" alt=""/>
       <caption webpage="reel" alt=""/>
       <caption webpage="reel" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
     </file>
-    <file name="if_twitter_circle_color_107170.png" crc="35982454" seo="true" ref="index:resume:reel">
+    <file name="if_twitter_circle_color_107170.png" crc="35982454" seo="true" ref="index:resume:reel:contact">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
       <caption webpage="reel" alt=""/>
       <caption webpage="reel" alt=""/>
       <caption webpage="reel" alt=""/>
       <caption webpage="reel" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
     </file>
     <file name="goldone-01449x449.png" crc="391095736" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -201,11 +219,12 @@
       <file name="resume.css" crc="62426684" ref="phone>resume"/>
       <file name="nomq_resume.css" crc="3824530138" ref="phone>resume"/>
     </folder>
-    <file name="index.html" crc="182688039" seo="true" mt="1517306826230" redirect="false"/>
-    <file name="reel.html" crc="467577006" seo="true" mt="1517306826402" redirect="false"/>
-    <file name="resume.html" crc="4084153230" seo="true" mt="1517306826415" redirect="false"/>
+    <file name="index.html" crc="352662147" seo="true" mt="1517306826230" redirect="false"/>
+    <file name="reel.html" crc="3776750949" seo="true" mt="1517306826402" redirect="false"/>
+    <file name="resume.html" crc="215647417" seo="true" mt="1517306826415" redirect="false"/>
   </folder>
-  <file name="index.html" crc="4001539934" seo="true" mt="1519299024019" redirect="true"/>
-  <file name="resume.html" crc="3826723392" seo="true" mt="1519299239352" redirect="true"/>
-  <file name="reel.html" crc="3949381770" seo="true" mt="1519298293622" redirect="true"/>
+  <file name="index.html" crc="510161157" seo="true" mt="1519314087654" redirect="true"/>
+  <file name="resume.html" crc="394280092" seo="true" mt="1519314087654" redirect="true"/>
+  <file name="reel.html" crc="327267991" seo="true" mt="1519314087654" redirect="true"/>
+  <file name="contact.html" crc="3779009484" seo="true" mt="1519314272411" redirect="true"/>
 </manifest>
