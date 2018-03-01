@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sharifyork.com" resolutions="1x" timestamp="1519314362197">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sharifyork.com" resolutions="1x" timestamp="1519904978629">
   <folder name="css">
-    <file name="site_global.css" crc="4029475474"/>
-    <file name="master_a-master.css" crc="117181523" ref="reel:contact:index:resume"/>
-    <file name="nomq_preview_master_a-master.css" crc="199727954" ref="reel:contact:index:resume"/>
-    <file name="reel.css" crc="3765745731" ref="reel"/>
-    <file name="nomq_reel.css" crc="191400953" ref="reel"/>
+    <file name="site_global.css" crc="421376635"/>
+    <file name="master_a-master.css" crc="24214476" ref="reel:contact:index:resume"/>
+    <file name="nomq_preview_master_a-master.css" crc="4060130671" ref="reel:contact:index:resume"/>
+    <file name="reel.css" crc="4188653129" ref="reel"/>
+    <file name="nomq_reel.css" crc="3957290564" ref="reel"/>
     <file name="contact.css" crc="167417114" ref="contact"/>
     <file name="nomq_contact.css" crc="88068579" ref="contact"/>
     <file name="index.css" crc="29033899" ref="index"/>
@@ -93,10 +93,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="reel" alt=""/>
-      <caption webpage="reel" alt=""/>
-      <caption webpage="reel" alt=""/>
-      <caption webpage="reel" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
@@ -105,16 +101,16 @@
       <caption webpage="resume" alt=""/>
       <caption webpage="resume" alt=""/>
       <caption webpage="resume" alt=""/>
+      <caption webpage="reel" alt=""/>
+      <caption webpage="reel" alt=""/>
+      <caption webpage="reel" alt=""/>
+      <caption webpage="reel" alt=""/>
     </file>
     <file name="if_circle-linkedin_317750.png" crc="112567275" seo="true" ref="index:resume:reel:contact">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="reel" alt=""/>
-      <caption webpage="reel" alt=""/>
-      <caption webpage="reel" alt=""/>
-      <caption webpage="reel" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
@@ -123,16 +119,16 @@
       <caption webpage="resume" alt=""/>
       <caption webpage="resume" alt=""/>
       <caption webpage="resume" alt=""/>
+      <caption webpage="reel" alt=""/>
+      <caption webpage="reel" alt=""/>
+      <caption webpage="reel" alt=""/>
+      <caption webpage="reel" alt=""/>
     </file>
     <file name="if_twitter_circle_color_107170.png" crc="35982454" seo="true" ref="index:resume:reel:contact">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="reel" alt=""/>
-      <caption webpage="reel" alt=""/>
-      <caption webpage="reel" alt=""/>
-      <caption webpage="reel" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="contact" alt=""/>
@@ -141,6 +137,10 @@
       <caption webpage="resume" alt=""/>
       <caption webpage="resume" alt=""/>
       <caption webpage="resume" alt=""/>
+      <caption webpage="reel" alt=""/>
+      <caption webpage="reel" alt=""/>
+      <caption webpage="reel" alt=""/>
+      <caption webpage="reel" alt=""/>
     </file>
     <file name="goldone-01449x449.png" crc="391095736" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -225,6 +225,6 @@
   </folder>
   <file name="index.html" crc="510161157" seo="true" mt="1519314087654" redirect="true"/>
   <file name="resume.html" crc="394280092" seo="true" mt="1519314087654" redirect="true"/>
-  <file name="reel.html" crc="327267991" seo="true" mt="1519314087654" redirect="true"/>
+  <file name="reel.html" crc="54952168" seo="true" mt="1519904961955" redirect="true"/>
   <file name="contact.html" crc="3779009484" seo="true" mt="1519314272411" redirect="true"/>
 </manifest>
