@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sharifyork.com" resolutions="1x" timestamp="1519904978629">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sharifyork.com" resolutions="1x" timestamp="1519905209787">
   <folder name="css">
     <file name="site_global.css" crc="421376635"/>
-    <file name="master_a-master.css" crc="24214476" ref="reel:contact:index:resume"/>
-    <file name="nomq_preview_master_a-master.css" crc="4060130671" ref="reel:contact:index:resume"/>
-    <file name="reel.css" crc="4188653129" ref="reel"/>
-    <file name="nomq_reel.css" crc="3957290564" ref="reel"/>
+    <file name="master_a-master.css" crc="4135553823" ref="reel:contact:index:resume"/>
+    <file name="nomq_preview_master_a-master.css" crc="4215444915" ref="reel:contact:index:resume"/>
+    <file name="reel.css" crc="4222435384" ref="reel"/>
+    <file name="nomq_reel.css" crc="520402389" ref="reel"/>
     <file name="contact.css" crc="167417114" ref="contact"/>
     <file name="nomq_contact.css" crc="88068579" ref="contact"/>
     <file name="index.css" crc="29033899" ref="index"/>
@@ -225,6 +225,6 @@
   </folder>
   <file name="index.html" crc="510161157" seo="true" mt="1519314087654" redirect="true"/>
   <file name="resume.html" crc="394280092" seo="true" mt="1519314087654" redirect="true"/>
-  <file name="reel.html" crc="54952168" seo="true" mt="1519904961955" redirect="true"/>
+  <file name="reel.html" crc="154165186" seo="true" mt="1519905192364" redirect="true"/>
   <file name="contact.html" crc="3779009484" seo="true" mt="1519314272411" redirect="true"/>
 </manifest>
