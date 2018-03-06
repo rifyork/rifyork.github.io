@@ -1,171 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://sharifyork.com/index.html</loc>
-    <lastmod>2018-02-22</lastmod>
+    <loc>http://jungleboogie.com/index.html</loc>
+    <lastmod>2018-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://sharifyork.com/images/list_sideways01_shocase.png</image:loc>
+      <image:loc>http://jungleboogie.com/images/animal-220237_1280-crop-u45665.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sharifyork.com/images/phone_view.png</image:loc>
+      <image:loc>http://jungleboogie.com/images/sunrise-in-savanna_f1ibgzdu_l-crop-u45709.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sharifyork.com/images/goldone-01.png</image:loc>
+      <image:loc>http://jungleboogie.com/images/google-plus-symbol-(1).svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sharifyork.com/images/ssdd%2062746%20pm-crop-u41741.jpg</image:loc>
+      <image:loc>http://jungleboogie.com/images/facebook-logo.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sharifyork.com/images/83585956050039599e15c8d2796.jpg</image:loc>
+      <image:loc>http://jungleboogie.com/images/animal-220237_1280-crop-u456652.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sharifyork.com/images/31e2f656049937599e148c79eb4.jpg</image:loc>
+      <image:loc>http://jungleboogie.com/images/sunrise-in-savanna_f1ibgzdu_l-crop-u457092.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sharifyork.com/images/38ef6756050003599e15446e4b7.jpg</image:loc>
+      <image:loc>http://jungleboogie.com/images/animal-220237_1280-crop-u456653.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sharifyork.com/images/4c174856049857599e13b82f7f7.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/c8ecfd52330391590ca1c242d3d.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/f992ee5065876558d5a4fd6fec8.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/sharif-n-york-beuty-pass-108001-fullbeuty.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/sharif-n-york-beuty-pass-108001-fullwireocc.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/sharif-n-york-beuty-pass-108001fullocc.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/if_mail_287559.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/if_circle-linkedin_317750.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/if_twitter_circle_color_107170.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/goldone-01449x449.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/ssdd%2062746%20pm-crop-u417412.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/list_sideways01_shocase263x197.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/phone_view129x227.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/goldone-01281x281.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/ssdd%2062746%20pm-crop-u417413.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/83585956050039599e15c8d2796217x290.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/31e2f656049937599e148c79eb4231x160.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/38ef6756050003599e15446e4b7251x190.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/4c174856049857599e13b82f7f7458x256.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/c8ecfd52330391590ca1c242d3d211x273.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/f992ee5065876558d5a4fd6fec8261x210.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/sharif-n-york-beuty-pass-108001-fullbeuty375x211.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/sharif-n-york-beuty-pass-108001-fullwireocc375x211.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/sharif-n-york-beuty-pass-108001fullocc375x211.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/list_sideways01_shocase378x283.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/phone_view179x315.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/goldone-01390x390.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/ssdd%2062746%20pm-crop-u417414.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/4c174856049857599e13b82f7f7429x240.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/sharif-n-york-beuty-pass-108001-fullbeuty397x224.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/sharif-n-york-beuty-pass-108001-fullwireocc395x222.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/sharif-n-york-beuty-pass-108001fullocc395x222.jpg</image:loc>
+      <image:loc>http://jungleboogie.com/images/sunrise-in-savanna_f1ibgzdu_l-crop-u457093.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://sharifyork.com/resume.html</loc>
-    <lastmod>2018-02-22</lastmod>
+    <loc>http://jungleboogie.com/rules---regulations.html</loc>
+    <lastmod>2018-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://sharifyork.com/images/if_mail_287559.png</image:loc>
+      <image:loc>http://jungleboogie.com/images/google-plus-symbol-(1).svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sharifyork.com/images/if_circle-linkedin_317750.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/if_twitter_circle_color_107170.png</image:loc>
+      <image:loc>http://jungleboogie.com/images/facebook-logo.svg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://sharifyork.com/reel.html</loc>
-    <lastmod>2018-03-05</lastmod>
+    <loc>http://jungleboogie.com/party-packages.html</loc>
+    <lastmod>2018-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://sharifyork.com/images/if_mail_287559.png</image:loc>
+      <image:loc>http://jungleboogie.com/images/google-plus-symbol-(1).svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sharifyork.com/images/if_circle-linkedin_317750.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://sharifyork.com/images/if_twitter_circle_color_107170.png</image:loc>
+      <image:loc>http://jungleboogie.com/images/facebook-logo.svg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://sharifyork.com/contact.html</loc>
-    <lastmod>2018-02-22</lastmod>
+    <loc>http://jungleboogie.com/contacts.html</loc>
+    <lastmod>2018-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://sharifyork.com/images/if_mail_287559.png</image:loc>
+      <image:loc>http://jungleboogie.com/images/google-plus-symbol-(1).svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sharifyork.com/images/if_circle-linkedin_317750.png</image:loc>
+      <image:loc>http://jungleboogie.com/images/facebook-logo.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://jungleboogie.com/open-play.html</loc>
+    <lastmod>2018-03-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://jungleboogie.com/images/google-plus-symbol-(1).svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://sharifyork.com/images/if_twitter_circle_color_107170.png</image:loc>
+      <image:loc>http://jungleboogie.com/images/facebook-logo.svg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://jungleboogie.com/rentals.html</loc>
+    <lastmod>2018-03-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://jungleboogie.com/images/google-plus-symbol-(1).svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jungleboogie.com/images/facebook-logo.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://jungleboogie.com/field-trips.html</loc>
+    <lastmod>2018-03-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://jungleboogie.com/images/google-plus-symbol-(1).svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jungleboogie.com/images/facebook-logo.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://jungleboogie.com/gallery.html</loc>
+    <lastmod>2018-03-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://jungleboogie.com/images/google-plus-symbol-(1).svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jungleboogie.com/images/facebook-logo.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://jungleboogie.com/images/344.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://jungleboogie.com/assets/green-leaves-vector_mjiga6hu.eps</loc>
+    <lastmod>2018-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
