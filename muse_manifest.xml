@@ -1,351 +1,226 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jungleboogie.com" resolutions="1x" timestamp="1520348204545">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sharifyork.com" resolutions="1x" timestamp="1520350219352">
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="121645740" ref="party-packages:rentals:gallery:rules---regulations:index:field-trips:contacts:open-play"/>
-    <file name="nomq_preview_master_a-master.css" crc="363155779" ref="party-packages:rentals:gallery:rules---regulations:index:field-trips:contacts:open-play"/>
-    <file name="party-packages.css" crc="3920088709" ref="party-packages"/>
-    <file name="nomq_party-packages.css" crc="415773675" ref="party-packages"/>
-    <file name="rentals.css" crc="4250709505" ref="rentals"/>
-    <file name="nomq_rentals.css" crc="3776642166" ref="rentals"/>
-    <file name="gallery.css" crc="54792904" ref="gallery"/>
-    <file name="nomq_gallery.css" crc="305968627" ref="gallery"/>
-    <file name="rules---regulations.css" crc="195223318" ref="rules---regulations"/>
-    <file name="nomq_rules---regulations.css" crc="4132581414" ref="rules---regulations"/>
-    <file name="index.css" crc="4284285694" ref="index"/>
-    <file name="nomq_index.css" crc="112518464" ref="index"/>
-    <file name="field-trips.css" crc="4250778368" ref="field-trips"/>
-    <file name="nomq_field-trips.css" crc="122276752" ref="field-trips"/>
-    <file name="contacts.css" crc="3777612491" ref="contacts"/>
-    <file name="nomq_contacts.css" crc="3784815890" ref="contacts"/>
-    <file name="open-play.css" crc="6303842" ref="open-play"/>
-    <file name="nomq_open-play.css" crc="418901487" ref="open-play"/>
-  </folder>
-  <folder name="assets">
-    <file name="green-leaves-vector_mjiga6hu.eps" crc="4050897373" seo="true" mt="1519175934000"/>
+    <file name="site_global.css" crc="421376635"/>
+    <file name="master_a-master.css" crc="287893458" ref="reel:index:contact:resume"/>
+    <file name="nomq_preview_master_a-master.css" crc="338782914" ref="reel:index:contact:resume"/>
+    <file name="reel.css" crc="172982933" ref="reel"/>
+    <file name="nomq_reel.css" crc="520402389" ref="reel"/>
+    <file name="index.css" crc="529067231" ref="index"/>
+    <file name="nomq_index.css" crc="3812431168" ref="index"/>
+    <file name="contact.css" crc="3997757901" ref="contact"/>
+    <file name="nomq_contact.css" crc="4048709148" ref="contact"/>
+    <file name="resume.css" crc="4009852189" ref="resume"/>
+    <file name="nomq_resume.css" crc="3860786188" ref="resume"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:party-packages:contacts:rules---regulations:rentals:open-play:field-trips:gallery"/>
-    <file name="museutils.js" crc="3803043152" ref="index:party-packages:contacts:rules---regulations:rentals:open-play:field-trips:gallery"/>
-    <file name="whatinput.js" crc="86476730" ref="index:party-packages:contacts:rules---regulations:rentals:open-play:field-trips:gallery"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:party-packages:contacts:rules---regulations:rentals:open-play:field-trips:gallery"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:party-packages:contacts:rules---regulations:rentals:open-play:field-trips:gallery"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:party-packages:contacts:rules---regulations:rentals:open-play:field-trips:gallery"/>
-    <file name="webpro.js" crc="242022427" ref="index:party-packages:contacts:rules---regulations:rentals:open-play:field-trips:gallery"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="index:party-packages:contacts:rules---regulations:rentals:open-play:field-trips:gallery"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="index:party-packages:contacts:rules---regulations:rentals:open-play:field-trips:gallery"/>
-    <file name="touchswipe.js" crc="4066113679" ref="index:party-packages:contacts:rules---regulations:rentals:open-play:field-trips:gallery"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:party-packages:rentals:field-trips"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:party-packages:contacts:rules---regulations:rentals:open-play:field-trips:gallery"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:party-packages:contacts:rules---regulations:rentals:open-play:field-trips:gallery"/>
-    <file name="require.js" crc="4157109226" ref="index:party-packages:contacts:rules---regulations:rentals:open-play:field-trips:gallery"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>reel:phone>resume:index:resume:reel:contact"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>reel:phone>resume:index:resume:reel:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>reel:phone>resume:index:resume:reel:contact"/>
+    <file name="museconfig.js" crc="4153641093" ref="phone>index:phone>reel:phone>resume:index:resume:reel:contact"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>reel:phone>resume:index:resume:reel:contact"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>reel:phone>resume:index:resume:reel:contact"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:resume:reel:contact"/>
+    <file name="webpro.js" crc="242022427" ref="index:resume:reel:contact"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:resume:reel:contact"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:resume:reel:contact"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:resume:reel:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:resume:reel:contact"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:resume:reel:contact"/>
   </folder>
   <folder name="images">
-    <file name="u14419-7.png" crc="4266529884" ref="index:party-packages:contacts:rules---regulations:rentals:open-play:field-trips:gallery"/>
-    <file name="blank.gif" crc="4208392903" ref="index:party-packages:contacts:rules---regulations:rentals:open-play:field-trips:gallery"/>
-    <file name="animal-220237_1280-crop-u45665.jpg" crc="123983334" seo="true" ref="index">
+    <file name="blank.gif" crc="4208392903" ref="index:resume:reel:contact"/>
+    <file name="list_sideways01_shocase.png" crc="504526564" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sunrise-in-savanna_f1ibgzdu_l-crop-u45709.jpg" crc="3783075778" seo="true" ref="index">
+    <file name="phone_view.png" crc="3979161187" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="freevector-jungle-background.jpg" crc="389836910" ref="index:party-packages">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="party-packages" alt=""/>
-      <caption webpage="party-packages" alt=""/>
-      <caption webpage="party-packages" alt=""/>
-      <caption webpage="party-packages" alt=""/>
-    </file>
-    <file name="u19312-10.png" crc="4066814473" ref="index"/>
-    <file name="6621.jpg" crc="4104915622" ref="index:open-play">
-      <caption webpage="index" alt=""/>
-      <caption webpage="open-play" alt=""/>
-      <caption webpage="open-play" alt=""/>
-    </file>
-    <file name="u19351-20.png" crc="4036925001" ref="index"/>
-    <file name="pnns.png" crc="4164450789" ref="index">
+    <file name="goldone-01.png" crc="39344414" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="google-plus-symbol-(1).svg" crc="4249563096" seo="true" ref="index:party-packages:contacts:rules---regulations:rentals:open-play:field-trips:gallery">
-      <caption webpage="party-packages" alt=""/>
-      <caption webpage="party-packages" alt=""/>
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="rentals" alt=""/>
-      <caption webpage="rentals" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="open-play" alt=""/>
-      <caption webpage="open-play" alt=""/>
-      <caption webpage="rules---regulations" alt=""/>
-      <caption webpage="rules---regulations" alt=""/>
-      <caption webpage="rules---regulations" alt=""/>
-      <caption webpage="rules---regulations" alt=""/>
-      <caption webpage="rules---regulations" alt=""/>
-      <caption webpage="rules---regulations" alt=""/>
-      <caption webpage="field-trips" alt=""/>
-      <caption webpage="field-trips" alt=""/>
-    </file>
-    <file name="google-plus-symbol (1)_poster_.png" crc="293602989" ref="index"/>
-    <file name="facebook-logo.svg" crc="367553079" seo="true" ref="index:party-packages:contacts:rules---regulations:rentals:open-play:field-trips:gallery">
-      <caption webpage="party-packages" alt=""/>
-      <caption webpage="party-packages" alt=""/>
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="rentals" alt=""/>
-      <caption webpage="rentals" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="contacts" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="open-play" alt=""/>
-      <caption webpage="open-play" alt=""/>
-      <caption webpage="rules---regulations" alt=""/>
-      <caption webpage="rules---regulations" alt=""/>
-      <caption webpage="rules---regulations" alt=""/>
-      <caption webpage="rules---regulations" alt=""/>
-      <caption webpage="rules---regulations" alt=""/>
-      <caption webpage="rules---regulations" alt=""/>
-      <caption webpage="field-trips" alt=""/>
-      <caption webpage="field-trips" alt=""/>
-    </file>
-    <file name="facebook-logo_poster_.png" crc="3911996769" ref="index"/>
-    <file name="animal-220237_1280-crop-u456652.jpg" crc="369416008" seo="true" ref="index">
+    <file name="ssdd 62746 pm-crop-u41741.jpg" crc="268401432" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sunrise-in-savanna_f1ibgzdu_l-crop-u457092.jpg" crc="292506114" seo="true" ref="index">
+    <file name="83585956050039599e15c8d2796.jpg" crc="410161287" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u19312-102.png" crc="4066814473" ref="index"/>
-    <file name="6621-u21495-fr.jpg" crc="3774737736" ref="index"/>
-    <file name="u19351-202.png" crc="3796035479" ref="index"/>
-    <file name="animal-220237_1280-crop-u456653.jpg" crc="3823098673" seo="true" ref="index">
+    <file name="31e2f656049937599e148c79eb4.jpg" crc="4052159634" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sunrise-in-savanna_f1ibgzdu_l-crop-u457093.jpg" crc="3761736668" seo="true" ref="index">
+    <file name="38ef6756050003599e15446e4b7.jpg" crc="12708449" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u19312-103.png" crc="4066814473" ref="index"/>
-    <file name="u19351-203.png" crc="3796035479" ref="index"/>
-    <file name="u19312-104.png" crc="4066814473" ref="index"/>
-    <file name="u19351-204.png" crc="4064701819" ref="index"/>
-    <file name="u1050-4.png" crc="92218685" ref="party-packages"/>
-    <file name="u35041-4.png" crc="478312797" ref="party-packages"/>
-    <file name="u23572-4.png" crc="4125033105" ref="party-packages"/>
-    <file name="u25371-4.png" crc="3795886020" ref="party-packages"/>
-    <file name="u25428-4.png" crc="188919277" ref="party-packages"/>
-    <file name="u25437-4.png" crc="177729203" ref="party-packages"/>
-    <file name="u22918-4.png" crc="4160711728" ref="party-packages"/>
-    <file name="u22666.png" crc="3800944352" ref="party-packages"/>
-    <file name="u22666-r.png" crc="3800944352" ref="party-packages"/>
-    <file name="u23242.png" crc="316101767" ref="party-packages"/>
-    <file name="u23242-r.png" crc="316101767" ref="party-packages"/>
-    <file name="chimpanzee-48026_1280.png" crc="4243330313" ref="party-packages">
-      <caption webpage="party-packages" alt=""/>
-      <caption webpage="party-packages" alt=""/>
+    <file name="4c174856049857599e13b82f7f7.jpg" crc="4008791219" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="u1163-4.png" crc="56702965" ref="party-packages"/>
-    <file name="lion-2404290_1280.png" crc="535840843" ref="party-packages">
-      <caption webpage="party-packages" alt=""/>
-      <caption webpage="party-packages" alt=""/>
+    <file name="c8ecfd52330391590ca1c242d3d.jpg" crc="453528586" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="u23225-4.png" crc="4250600459" ref="party-packages"/>
-    <file name="u23516.png" crc="3967897454" ref="party-packages"/>
-    <file name="u23516-r.png" crc="3967897454" ref="party-packages"/>
-    <file name="monkey-1024505_1920.png" crc="3949984248" ref="party-packages">
-      <caption webpage="party-packages" alt=""/>
-      <caption webpage="party-packages" alt=""/>
+    <file name="f992ee5065876558d5a4fd6fec8.jpg" crc="3963321408" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="u23487-4.png" crc="3882379822" ref="party-packages"/>
-    <file name="u24053-4.png" crc="3854031636" ref="party-packages"/>
-    <file name="u1050-42.png" crc="506155968" ref="party-packages"/>
-    <file name="u35041-42.png" crc="241056855" ref="party-packages"/>
-    <file name="u23572-42.png" crc="3977728361" ref="party-packages"/>
-    <file name="u25371-42.png" crc="4162066143" ref="party-packages"/>
-    <file name="u25428-42.png" crc="4148170965" ref="party-packages"/>
-    <file name="u25437-42.png" crc="4117568345" ref="party-packages"/>
-    <file name="u22918-42.png" crc="4279315205" ref="party-packages"/>
-    <file name="chimpanzee-48026_1280-u1155-fr.png" crc="202548348" ref="party-packages"/>
-    <file name="u1163-42.png" crc="3912444108" ref="party-packages"/>
-    <file name="u226662.png" crc="4169114456" ref="party-packages"/>
-    <file name="u22666-r2.png" crc="4169114456" ref="party-packages"/>
-    <file name="u232422.png" crc="4293192605" ref="party-packages"/>
-    <file name="u23242-r2.png" crc="4293192605" ref="party-packages"/>
-    <file name="lion-2404290_1280-u23232-fr.png" crc="3836405297" ref="party-packages"/>
-    <file name="u23225-42.png" crc="4127089321" ref="party-packages"/>
-    <file name="u235162.png" crc="3967897454" ref="party-packages"/>
-    <file name="u23516-r2.png" crc="3967897454" ref="party-packages"/>
-    <file name="monkey-1024505_1920-u23501-fr.png" crc="4001113347" ref="party-packages"/>
-    <file name="u23487-42.png" crc="4081593680" ref="party-packages"/>
-    <file name="u24053-42.png" crc="440144536" ref="party-packages"/>
-    <file name="u1050-43.png" crc="508797843" ref="party-packages"/>
-    <file name="u35041-43.png" crc="424764590" ref="party-packages"/>
-    <file name="u23572-43.png" crc="110082345" ref="party-packages"/>
-    <file name="u25371-43.png" crc="252483141" ref="party-packages"/>
-    <file name="u25428-43.png" crc="117192902" ref="party-packages"/>
-    <file name="u25437-43.png" crc="3800665127" ref="party-packages"/>
-    <file name="u22918-43.png" crc="282518599" ref="party-packages"/>
-    <file name="chimpanzee-48026_1280-u1155-fr2.png" crc="3845071627" ref="party-packages"/>
-    <file name="u1163-43.png" crc="190121294" ref="party-packages"/>
-    <file name="u226663.png" crc="4169114456" ref="party-packages"/>
-    <file name="u22666-r3.png" crc="4169114456" ref="party-packages"/>
-    <file name="u232423.png" crc="4293192605" ref="party-packages"/>
-    <file name="u23242-r3.png" crc="4293192605" ref="party-packages"/>
-    <file name="lion-2404290_1280-u23232-fr2.png" crc="4014814334" ref="party-packages"/>
-    <file name="u23225-43.png" crc="4252273802" ref="party-packages"/>
-    <file name="u235163.png" crc="3967897454" ref="party-packages"/>
-    <file name="u23516-r3.png" crc="3967897454" ref="party-packages"/>
-    <file name="monkey-1024505_1920-u23501-fr2.png" crc="3945346297" ref="party-packages"/>
-    <file name="u23487-43.png" crc="315476532" ref="party-packages"/>
-    <file name="u24053-43.png" crc="440144536" ref="party-packages"/>
-    <file name="u35041-44.png" crc="82667637" ref="party-packages"/>
-    <file name="u23572-44.png" crc="3767814757" ref="party-packages"/>
-    <file name="u25371-44.png" crc="4151035607" ref="party-packages"/>
-    <file name="u25428-44.png" crc="4109104216" ref="party-packages"/>
-    <file name="u25437-44.png" crc="4165792801" ref="party-packages"/>
-    <file name="u22918-44.png" crc="386105660" ref="party-packages"/>
-    <file name="u1050-44.png" crc="308493365" ref="party-packages"/>
-    <file name="u226664.png" crc="305921463" ref="party-packages"/>
-    <file name="u22666-r4.png" crc="305921463" ref="party-packages"/>
-    <file name="freevector-jungle-background-u22689-fr.jpg" crc="4004237204" ref="party-packages"/>
-    <file name="u1163-44.png" crc="3962538719" ref="party-packages"/>
-    <file name="u232424.png" crc="4272004494" ref="party-packages"/>
-    <file name="u23242-r4.png" crc="4272004494" ref="party-packages"/>
-    <file name="u23225-44.png" crc="360138060" ref="party-packages"/>
-    <file name="u235164.png" crc="272623282" ref="party-packages"/>
-    <file name="u23516-r4.png" crc="272623282" ref="party-packages"/>
-    <file name="freevector-jungle-background-u23457-fr.jpg" crc="357591144" ref="party-packages"/>
-    <file name="u23487-44.png" crc="76650865" ref="party-packages"/>
-    <file name="u24053-44.png" crc="488262600" ref="party-packages"/>
-    <file name="470.jpg" crc="3855470214" ref="contacts">
-      <caption webpage="contacts" alt="Contact"/>
-      <caption webpage="contacts" alt="Contact"/>
-      <caption webpage="contacts" alt="Contact"/>
-      <caption webpage="contacts" alt="Contact"/>
+    <file name="sharif-n-york-beuty-pass-108001-fullbeuty.jpg" crc="4063520054" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="u27356-4.png" crc="3793411608" ref="rules---regulations"/>
-    <file name="u27358-4.png" crc="177729203" ref="rules---regulations"/>
-    <file name="u27356-42.png" crc="3847606602" ref="rules---regulations"/>
-    <file name="u27358-42.png" crc="4117568345" ref="rules---regulations"/>
-    <file name="u27356-43.png" crc="262188787" ref="rules---regulations"/>
-    <file name="u27358-43.png" crc="3800665127" ref="rules---regulations"/>
-    <file name="u27356-44.png" crc="260400570" ref="rules---regulations"/>
-    <file name="u27358-44.png" crc="95800345" ref="rules---regulations"/>
-    <file name="u24750.png" crc="405559493" ref="rentals"/>
-    <file name="u24750-r.png" crc="405559493" ref="rentals"/>
-    <file name="u24705-4-a.png" crc="4125033105" ref="rentals"/>
-    <file name="u24704-4.png" crc="4160711728" ref="rentals"/>
-    <file name="jungtook-u24651-fr.jpg" crc="4220835680" ref="rentals"/>
-    <file name="u247502.png" crc="405559493" ref="rentals"/>
-    <file name="u24750-r2.png" crc="405559493" ref="rentals"/>
-    <file name="u24705-4-a2.png" crc="4043988529" ref="rentals"/>
-    <file name="u24704-42.png" crc="4227262167" ref="rentals"/>
-    <file name="jungtook-u24651-fr2.jpg" crc="4229597186" ref="rentals"/>
-    <file name="u247503.png" crc="405559493" ref="rentals"/>
-    <file name="u24750-r3.png" crc="405559493" ref="rentals"/>
-    <file name="u24704-43.png" crc="282518599" ref="rentals"/>
-    <file name="u24705-4-a3.png" crc="110082345" ref="rentals"/>
-    <file name="jungtook-u24651-fr3.jpg" crc="283593649" ref="rentals"/>
-    <file name="u247504.png" crc="3766887230" ref="rentals"/>
-    <file name="u24750-r4.png" crc="3766887230" ref="rentals"/>
-    <file name="u24705-4-a4.png" crc="4176332422" ref="rentals"/>
-    <file name="u24704-44.png" crc="156622539" ref="rentals"/>
-    <file name="jungtook-u24651-fr4.jpg" crc="3854029766" ref="rentals"/>
-    <file name="u25480-4.png" crc="197585209" ref="open-play"/>
-    <file name="u29815-4.png" crc="478312797" ref="open-play"/>
-    <file name="u25475-4.png" crc="177729203" ref="open-play"/>
-    <file name="u25465-4.png" crc="188919277" ref="open-play"/>
-    <file name="u25484-4.png" crc="4160711728" ref="open-play"/>
-    <file name="6621-u25508-fr.png" crc="473613331" ref="open-play"/>
-    <file name="u25480-42.png" crc="88128657" ref="open-play"/>
-    <file name="u29815-42.png" crc="241056855" ref="open-play"/>
-    <file name="u25475-42.png" crc="4117568345" ref="open-play"/>
-    <file name="u25465-42.png" crc="4148170965" ref="open-play"/>
-    <file name="u25484-42.png" crc="4279315205" ref="open-play"/>
-    <file name="u25480-43.png" crc="4026341723" ref="open-play"/>
-    <file name="u29815-43.png" crc="424764590" ref="open-play"/>
-    <file name="u25475-43.png" crc="3800665127" ref="open-play"/>
-    <file name="u25465-43.png" crc="117192902" ref="open-play"/>
-    <file name="u25484-43.png" crc="282518599" ref="open-play"/>
-    <file name="u25480-44.png" crc="4013343385" ref="open-play"/>
-    <file name="u29815-44.png" crc="332181626" ref="open-play"/>
-    <file name="u25475-44.png" crc="4219760176" ref="open-play"/>
-    <file name="u25465-44.png" crc="4029292925" ref="open-play"/>
-    <file name="u25484-44.png" crc="308561240" ref="open-play"/>
-    <file name="u26270-4.png" crc="455922246" ref="field-trips"/>
-    <file name="470-u26261-fr.png" crc="261113223" ref="field-trips"/>
-    <file name="u26274-4.png" crc="177729203" ref="field-trips"/>
-    <file name="u35048-4.png" crc="478312797" ref="field-trips"/>
-    <file name="u26269-4.png" crc="4160711728" ref="field-trips"/>
-    <file name="jungtook.jpg" crc="10679992" ref="field-trips">
-      <caption webpage="field-trips" alt=""/>
+    <file name="sharif-n-york-beuty-pass-108001-fullwireocc.jpg" crc="4292411684" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="u26270-42.png" crc="357570088" ref="field-trips"/>
-    <file name="u26274-42.png" crc="478347245" ref="field-trips"/>
-    <file name="u35048-42.png" crc="3965149448" ref="field-trips"/>
-    <file name="u26269-42.png" crc="3862919833" ref="field-trips"/>
-    <file name="470-u26261-fr.jpg" crc="3804332951" ref="field-trips"/>
-    <file name="jungtook-u26258-fr.jpg" crc="398955183" ref="field-trips"/>
-    <file name="u26270-43.png" crc="360714003" ref="field-trips"/>
-    <file name="u26269-43.png" crc="4173919687" ref="field-trips"/>
-    <file name="u26274-43.png" crc="166103314" ref="field-trips"/>
-    <file name="u35048-43.png" crc="4173651318" ref="field-trips"/>
-    <file name="470-u26261-fr2.jpg" crc="4195354673" ref="field-trips"/>
-    <file name="jungtook-u26258-fr2.jpg" crc="346829220" ref="field-trips"/>
-    <file name="u26270-44.png" crc="273696247" ref="field-trips"/>
-    <file name="u26274-44.png" crc="95800345" ref="field-trips"/>
-    <file name="u35048-44.png" crc="275999559" ref="field-trips"/>
-    <file name="u26269-44.png" crc="156622539" ref="field-trips"/>
-    <file name="470-u26261-fr2.png" crc="140225953" ref="field-trips"/>
-    <file name="jungtook-u26258-fr3.jpg" crc="193133838" ref="field-trips"/>
-    <file name="u47380-4.png" crc="3892871844" ref="gallery"/>
-    <file name="344.jpg" crc="4015856129" seo="true" ref="gallery">
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="gallery" alt=""/>
-      <caption webpage="gallery" alt=""/>
+    <file name="sharif-n-york-beuty-pass-108001fullocc.jpg" crc="190845949" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="u47380-42.png" crc="334346749" ref="gallery"/>
-    <file name="u47380-43.png" crc="4186398727" ref="gallery"/>
-    <file name="u47380-44.png" crc="192587977" ref="gallery"/>
+    <file name="if_mail_287559.png" crc="3949913367" seo="true" ref="index:resume:reel:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="reel" alt=""/>
+      <caption webpage="reel" alt=""/>
+      <caption webpage="reel" alt=""/>
+      <caption webpage="reel" alt=""/>
+    </file>
+    <file name="if_circle-linkedin_317750.png" crc="112567275" seo="true" ref="index:resume:reel:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="reel" alt=""/>
+      <caption webpage="reel" alt=""/>
+      <caption webpage="reel" alt=""/>
+      <caption webpage="reel" alt=""/>
+    </file>
+    <file name="if_twitter_circle_color_107170.png" crc="35982454" seo="true" ref="index:resume:reel:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="resume" alt=""/>
+      <caption webpage="reel" alt=""/>
+      <caption webpage="reel" alt=""/>
+      <caption webpage="reel" alt=""/>
+      <caption webpage="reel" alt=""/>
+    </file>
+    <file name="goldone-01449x449.png" crc="391095736" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ssdd 62746 pm-crop-u417412.jpg" crc="483263714" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="list_sideways01_shocase263x197.png" crc="309173542" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone_view129x227.png" crc="255031339" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="goldone-01281x281.png" crc="3870500375" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ssdd 62746 pm-crop-u417413.jpg" crc="3762906463" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="83585956050039599e15c8d2796217x290.jpg" crc="4084749184" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="31e2f656049937599e148c79eb4231x160.jpg" crc="215006110" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="38ef6756050003599e15446e4b7251x190.jpg" crc="3984909500" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4c174856049857599e13b82f7f7458x256.jpg" crc="4010504472" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c8ecfd52330391590ca1c242d3d211x273.jpg" crc="4285602378" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="f992ee5065876558d5a4fd6fec8261x210.jpg" crc="4248825557" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sharif-n-york-beuty-pass-108001-fullbeuty375x211.jpg" crc="3802056939" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sharif-n-york-beuty-pass-108001-fullwireocc375x211.jpg" crc="426613071" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sharif-n-york-beuty-pass-108001fullocc375x211.jpg" crc="3794052917" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="list_sideways01_shocase378x283.png" crc="188469480" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone_view179x315.png" crc="3822141710" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="goldone-01390x390.png" crc="3950799863" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ssdd 62746 pm-crop-u417414.jpg" crc="4141734649" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4c174856049857599e13b82f7f7429x240.jpg" crc="4294642416" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sharif-n-york-beuty-pass-108001-fullbeuty397x224.jpg" crc="3866195462" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sharif-n-york-beuty-pass-108001-fullwireocc395x222.jpg" crc="4206268951" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sharif-n-york-beuty-pass-108001fullocc395x222.jpg" crc="3901687269" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="345190030" seo="true" mt="1520346770526" redirect="true"/>
-  <file name="party-packages.html" crc="3928237765" seo="true" mt="1520346770526" redirect="true"/>
-  <file name="contacts.html" crc="512644402" seo="true" mt="1520346770526" redirect="true"/>
-  <file name="rules---regulations.html" crc="4207343695" seo="true" mt="1520346797232" redirect="true"/>
-  <file name="rentals.html" crc="414819350" seo="true" mt="1520346770526" redirect="true"/>
-  <file name="open-play.html" crc="41640762" seo="true" mt="1520346770526" redirect="true"/>
-  <file name="field-trips.html" crc="254352724" seo="true" mt="1520346784390" redirect="true"/>
-  <file name="gallery.html" crc="4235969137" seo="true" mt="1520346770526" redirect="true"/>
+  <folder name="phone">
+    <folder name="css">
+      <file name="resume.css" crc="62426684" ref="phone>resume"/>
+      <file name="nomq_resume.css" crc="3824530138" ref="phone>resume"/>
+      <file name="index.css" crc="62426684" ref="phone>index"/>
+      <file name="reel.css" crc="62426684" ref="phone>reel"/>
+    </folder>
+    <file name="index.html" crc="3936339856" seo="true" mt="1517306826230" redirect="false"/>
+    <file name="reel.html" crc="4258075263" seo="true" mt="1517306826402" redirect="false"/>
+    <file name="resume.html" crc="3974922318" seo="true" mt="1517306826415" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="39870741" seo="true" mt="1519314087654" redirect="true"/>
+  <file name="resume.html" crc="411098100" seo="true" mt="1519314087654" redirect="true"/>
+  <file name="reel.html" crc="104062697" seo="true" mt="1520307513351" redirect="true"/>
+  <file name="contact.html" crc="4264943718" seo="true" mt="1520350170097" redirect="true"/>
 </manifest>
