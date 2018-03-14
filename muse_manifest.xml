@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sharifyork.com" resolutions="1x" timestamp="1521061866193">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sharifyork.com" resolutions="1x" timestamp="1521062651179">
   <folder name="assets">
     <file name="envelope.eps" crc="452320642" seo="true" mt="1520611264000"/>
     <file name="6320.eps" crc="4183151627" seo="true" mt="1501261384000"/>
@@ -18,12 +18,12 @@
     <file name="site_global.css" crc="355410612"/>
     <file name="master_a-master.css" crc="3999359807" ref="index:3d-animation:portfolio"/>
     <file name="nomq_preview_master_a-master.css" crc="3926930616" ref="index:3d-animation:portfolio"/>
-    <file name="index.css" crc="288405621" ref="index"/>
-    <file name="nomq_index.css" crc="256060165" ref="index"/>
-    <file name="3d-animation.css" crc="334373221" ref="3d-animation"/>
-    <file name="nomq_3d-animation.css" crc="398586663" ref="3d-animation"/>
-    <file name="portfolio.css" crc="4074392022" ref="portfolio"/>
-    <file name="nomq_portfolio.css" crc="169605173" ref="portfolio"/>
+    <file name="index.css" crc="387486720" ref="index"/>
+    <file name="nomq_index.css" crc="189879049" ref="index"/>
+    <file name="3d-animation.css" crc="406177773" ref="3d-animation"/>
+    <file name="nomq_3d-animation.css" crc="3825402967" ref="3d-animation"/>
+    <file name="portfolio.css" crc="4115708324" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="4026883828" ref="portfolio"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index:phone>portfolio:phone>3d-animation:tablet>index:tablet>portfolio:tablet>3d-animation:portfolio:3d-animation"/>
@@ -190,7 +190,7 @@
     <file name="portfolio.html" crc="311489318" seo="true" mt="1521060563503" redirect="false"/>
     <file name="3d-animation.html" crc="3903248258" seo="true" mt="1521060563539" redirect="false"/>
   </folder>
-  <file name="index.html" crc="59488361" seo="true" mt="1521061718188" redirect="true"/>
-  <file name="portfolio.html" crc="488612173" seo="true" mt="1521061718188" redirect="true"/>
-  <file name="3d-animation.html" crc="12274994" seo="true" mt="1521061718188" redirect="true"/>
+  <file name="index.html" crc="3994498625" seo="true" mt="1521062590833" redirect="true"/>
+  <file name="portfolio.html" crc="4146301743" seo="true" mt="1521062590833" redirect="true"/>
+  <file name="3d-animation.html" crc="513713434" seo="true" mt="1521062590833" redirect="true"/>
 </manifest>
