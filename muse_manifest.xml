@@ -1,226 +1,196 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sharifyork.com" resolutions="1x" timestamp="1520350219352">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sharifyork.com" resolutions="1x" timestamp="1521061410134">
+  <folder name="assets">
+    <file name="envelope.eps" crc="452320642" seo="true" mt="1520611264000"/>
+    <file name="6320.eps" crc="4183151627" seo="true" mt="1501261384000"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="3d-animation.css" crc="99782224" ref="tablet>3d-animation"/>
+      <file name="nomq_3d-animation.css" crc="3824530138" ref="tablet>3d-animation"/>
+      <file name="index.css" crc="99782224" ref="tablet>index"/>
+      <file name="portfolio.css" crc="99782224" ref="tablet>portfolio"/>
+    </folder>
+    <file name="index.html" crc="4034741122" seo="true" mt="1521060563865" redirect="false"/>
+    <file name="portfolio.html" crc="198573530" seo="true" mt="1521060563948" redirect="false"/>
+    <file name="3d-animation.html" crc="4244154790" seo="true" mt="1521060564033" redirect="false"/>
+  </folder>
   <folder name="css">
-    <file name="site_global.css" crc="421376635"/>
-    <file name="master_a-master.css" crc="287893458" ref="reel:index:contact:resume"/>
-    <file name="nomq_preview_master_a-master.css" crc="338782914" ref="reel:index:contact:resume"/>
-    <file name="reel.css" crc="172982933" ref="reel"/>
-    <file name="nomq_reel.css" crc="520402389" ref="reel"/>
-    <file name="index.css" crc="529067231" ref="index"/>
-    <file name="nomq_index.css" crc="3812431168" ref="index"/>
-    <file name="contact.css" crc="3997757901" ref="contact"/>
-    <file name="nomq_contact.css" crc="4048709148" ref="contact"/>
-    <file name="resume.css" crc="4009852189" ref="resume"/>
-    <file name="nomq_resume.css" crc="3860786188" ref="resume"/>
+    <file name="site_global.css" crc="355410612"/>
+    <file name="master_a-master.css" crc="3999359807" ref="index:3d-animation:portfolio"/>
+    <file name="nomq_preview_master_a-master.css" crc="3926930616" ref="index:3d-animation:portfolio"/>
+    <file name="index.css" crc="3962023880" ref="index"/>
+    <file name="nomq_index.css" crc="4251759753" ref="index"/>
+    <file name="3d-animation.css" crc="480950693" ref="3d-animation"/>
+    <file name="nomq_3d-animation.css" crc="3831240481" ref="3d-animation"/>
+    <file name="portfolio.css" crc="476527406" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="81206487" ref="portfolio"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>reel:phone>resume:index:resume:reel:contact"/>
-    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>reel:phone>resume:index:resume:reel:contact"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>reel:phone>resume:index:resume:reel:contact"/>
-    <file name="museconfig.js" crc="4153641093" ref="phone>index:phone>reel:phone>resume:index:resume:reel:contact"/>
-    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>reel:phone>resume:index:resume:reel:contact"/>
-    <file name="require.js" crc="4157109226" ref="phone>index:phone>reel:phone>resume:index:resume:reel:contact"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:resume:reel:contact"/>
-    <file name="webpro.js" crc="242022427" ref="index:resume:reel:contact"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="index:resume:reel:contact"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="index:resume:reel:contact"/>
-    <file name="touchswipe.js" crc="4066113679" ref="index:resume:reel:contact"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:resume:reel:contact"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:resume:reel:contact"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index:phone>portfolio:phone>3d-animation:tablet>index:tablet>portfolio:tablet>3d-animation:portfolio:3d-animation"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:index:phone>portfolio:phone>3d-animation:tablet>index:tablet>portfolio:tablet>3d-animation:portfolio:3d-animation"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index:phone>portfolio:phone>3d-animation:tablet>index:tablet>portfolio:tablet>3d-animation:portfolio:3d-animation"/>
+    <file name="museconfig.js" crc="4153641093" ref="phone>index:index:phone>portfolio:phone>3d-animation:tablet>index:tablet>portfolio:tablet>3d-animation:portfolio:3d-animation"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:index:phone>portfolio:phone>3d-animation:tablet>index:tablet>portfolio:tablet>3d-animation:portfolio:3d-animation"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:index:phone>portfolio:phone>3d-animation:tablet>index:tablet>portfolio:tablet>3d-animation:portfolio:3d-animation"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:portfolio:3d-animation"/>
+    <file name="webpro.js" crc="242022427" ref="index:portfolio:3d-animation"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:portfolio:3d-animation"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:portfolio:3d-animation"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:portfolio:3d-animation"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:portfolio:3d-animation"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:portfolio:3d-animation"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="portfolio"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:resume:reel:contact"/>
-    <file name="list_sideways01_shocase.png" crc="504526564" seo="true" ref="index">
+    <file name="blank.gif" crc="4208392903" ref="index:portfolio:3d-animation"/>
+    <file name="phone_view.png" crc="3979161187" seo="true" ref="portfolio">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="phone_view.png" crc="3979161187" seo="true" ref="index">
+    <file name="face.svg" crc="466511697" seo="true" ref="portfolio:3d-animation:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
     </file>
-    <file name="goldone-01.png" crc="39344414" seo="true" ref="index">
+    <file name="face_poster_.png" crc="4036530203" ref="portfolio"/>
+    <file name="asset-5.svg" crc="409031411" seo="true" ref="portfolio:3d-animation:index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
     </file>
-    <file name="ssdd 62746 pm-crop-u41741.jpg" crc="268401432" seo="true" ref="index">
+    <file name="asset 5_poster_.png" crc="95426589" ref="portfolio"/>
+    <file name="loink.svg" crc="133207844" seo="true" ref="portfolio:3d-animation:index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
     </file>
-    <file name="83585956050039599e15c8d2796.jpg" crc="410161287" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="loink_poster_.png" crc="3792108167" ref="portfolio"/>
+    <file name="iphone_6_plus_perspective-gold.png" crc="4094313508" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="31e2f656049937599e148c79eb4.jpg" crc="4052159634" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="desktop hd.jpg" crc="4144867930" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="38ef6756050003599e15446e4b7.jpg" crc="12708449" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="goldone-01-u41605.png" crc="3805242549" ref="portfolio"/>
+    <file name="screen shot 2018-03-12 at 82130 pm.jpg" crc="4059729591" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="4c174856049857599e13b82f7f7.jpg" crc="4008791219" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="c.jpg" crc="112160626" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="c8ecfd52330391590ca1c242d3d.jpg" crc="453528586" seo="true" ref="index">
+    <file name="asset-3.svg" crc="114235327" seo="true" ref="portfolio:3d-animation:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
     </file>
-    <file name="f992ee5065876558d5a4fd6fec8.jpg" crc="3963321408" seo="true" ref="index">
+    <file name="asset 3_poster_.png" crc="33576848" ref="portfolio"/>
+    <file name="asset-4.svg" crc="4281987844" seo="true" ref="portfolio:3d-animation:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
     </file>
-    <file name="sharif-n-york-beuty-pass-108001-fullbeuty.jpg" crc="4063520054" seo="true" ref="index">
+    <file name="asset 4_poster_.png" crc="4009111024" ref="portfolio"/>
+    <file name="asset-6.svg" crc="4179562396" seo="true" ref="portfolio:3d-animation:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
     </file>
-    <file name="sharif-n-york-beuty-pass-108001-fullwireocc.jpg" crc="4292411684" seo="true" ref="index">
+    <file name="asset 6_poster_.png" crc="3900247986" ref="portfolio"/>
+    <file name="asset-52.svg" crc="266178332" seo="true" ref="portfolio:3d-animation:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
     </file>
-    <file name="sharif-n-york-beuty-pass-108001fullocc.jpg" crc="190845949" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="asset 5_poster_2.png" crc="3862163613" ref="portfolio"/>
+    <file name="desktop hd409x291.jpg" crc="380765905" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="if_mail_287559.png" crc="3949913367" seo="true" ref="index:resume:reel:contact">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="reel" alt=""/>
-      <caption webpage="reel" alt=""/>
-      <caption webpage="reel" alt=""/>
-      <caption webpage="reel" alt=""/>
+    <file name="phone_view-crop-u41597.png" crc="402752715" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="if_circle-linkedin_317750.png" crc="112567275" seo="true" ref="index:resume:reel:contact">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="reel" alt=""/>
-      <caption webpage="reel" alt=""/>
-      <caption webpage="reel" alt=""/>
-      <caption webpage="reel" alt=""/>
+    <file name="goldone-01-u416052.png" crc="149373157" ref="portfolio"/>
+    <file name="c-u91078-fr.jpg" crc="4017094032" ref="portfolio"/>
+    <file name="phone_view-crop-u415972.png" crc="490026439" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="if_twitter_circle_color_107170.png" crc="35982454" seo="true" ref="index:resume:reel:contact">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="contact" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="resume" alt=""/>
-      <caption webpage="reel" alt=""/>
-      <caption webpage="reel" alt=""/>
-      <caption webpage="reel" alt=""/>
-      <caption webpage="reel" alt=""/>
+    <file name="goldone-01-u416053.png" crc="4100295171" ref="portfolio"/>
+    <file name="iphone_6_plus_perspective-gold389x292.png" crc="4057761174" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="goldone-01449x449.png" crc="391095736" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="desktop hd371x264.jpg" crc="525117302" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="ssdd 62746 pm-crop-u417412.jpg" crc="483263714" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="phone_view-crop-u415973.png" crc="496828509" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="list_sideways01_shocase263x197.png" crc="309173542" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="phone_view129x227.png" crc="255031339" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="goldone-01281x281.png" crc="3870500375" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ssdd 62746 pm-crop-u417413.jpg" crc="3762906463" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="83585956050039599e15c8d2796217x290.jpg" crc="4084749184" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="31e2f656049937599e148c79eb4231x160.jpg" crc="215006110" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="38ef6756050003599e15446e4b7251x190.jpg" crc="3984909500" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="4c174856049857599e13b82f7f7458x256.jpg" crc="4010504472" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="c8ecfd52330391590ca1c242d3d211x273.jpg" crc="4285602378" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="f992ee5065876558d5a4fd6fec8261x210.jpg" crc="4248825557" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="sharif-n-york-beuty-pass-108001-fullbeuty375x211.jpg" crc="3802056939" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="sharif-n-york-beuty-pass-108001-fullwireocc375x211.jpg" crc="426613071" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="sharif-n-york-beuty-pass-108001fullocc375x211.jpg" crc="3794052917" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="list_sideways01_shocase378x283.png" crc="188469480" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="phone_view179x315.png" crc="3822141710" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="goldone-01390x390.png" crc="3950799863" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ssdd 62746 pm-crop-u417414.jpg" crc="4141734649" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="4c174856049857599e13b82f7f7429x240.jpg" crc="4294642416" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="sharif-n-york-beuty-pass-108001-fullbeuty397x224.jpg" crc="3866195462" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="sharif-n-york-beuty-pass-108001-fullwireocc395x222.jpg" crc="4206268951" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="sharif-n-york-beuty-pass-108001fullocc395x222.jpg" crc="3901687269" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="goldone-01-u416054.png" crc="450006343" ref="portfolio"/>
+    <file name="screen shot 2018-03-12 at 82130 pm424x209.jpg" crc="3784706110" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
     </file>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="resume.css" crc="62426684" ref="phone>resume"/>
-      <file name="nomq_resume.css" crc="3824530138" ref="phone>resume"/>
-      <file name="index.css" crc="62426684" ref="phone>index"/>
-      <file name="reel.css" crc="62426684" ref="phone>reel"/>
+      <file name="index.css" crc="381222428" ref="phone>index"/>
+      <file name="3d-animation.css" crc="381222428" ref="phone>3d-animation"/>
+      <file name="nomq_3d-animation.css" crc="3824530138" ref="phone>3d-animation"/>
+      <file name="portfolio.css" crc="381222428" ref="phone>portfolio"/>
     </folder>
-    <file name="index.html" crc="3936339856" seo="true" mt="1517306826230" redirect="false"/>
-    <file name="reel.html" crc="4258075263" seo="true" mt="1517306826402" redirect="false"/>
-    <file name="resume.html" crc="3974922318" seo="true" mt="1517306826415" redirect="false"/>
+    <file name="index.html" crc="304887985" seo="true" mt="1521060563211" redirect="false"/>
+    <file name="portfolio.html" crc="311489318" seo="true" mt="1521060563503" redirect="false"/>
+    <file name="3d-animation.html" crc="3903248258" seo="true" mt="1521060563539" redirect="false"/>
   </folder>
-  <file name="index.html" crc="39870741" seo="true" mt="1519314087654" redirect="true"/>
-  <file name="resume.html" crc="411098100" seo="true" mt="1519314087654" redirect="true"/>
-  <file name="reel.html" crc="104062697" seo="true" mt="1520307513351" redirect="true"/>
-  <file name="contact.html" crc="4264943718" seo="true" mt="1520350170097" redirect="true"/>
+  <file name="index.html" crc="401424474" seo="true" mt="1521061318909" redirect="true"/>
+  <file name="portfolio.html" crc="371389517" seo="true" mt="1521061318909" redirect="true"/>
+  <file name="3d-animation.html" crc="3865499241" seo="true" mt="1521061318909" redirect="true"/>
 </manifest>
