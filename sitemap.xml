@@ -53,6 +53,9 @@
     <image:image>
       <image:loc>http://sharifyork.com/images/asset-52.svg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://sharifyork.com/images/arrow-down-on-black-circular-background.svg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://sharifyork.com/app-concept.html</loc>
@@ -202,6 +205,9 @@
     </image:image>
     <image:image>
       <image:loc>http://sharifyork.com/images/mobile-crop-u1243524.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://sharifyork.com/images/arrow-down-on-black-circular-background.svg</image:loc>
     </image:image>
   </url>
   <url>

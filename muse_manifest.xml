@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sharifyork.com" resolutions="1x" timestamp="1521705596787">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sharifyork.com" resolutions="1x" timestamp="1521722707149">
   <folder name="assets">
     <file name="envelope.eps" crc="452320642" seo="true" mt="1520611264000"/>
     <file name="6320.eps" crc="4183151627" seo="true" mt="1501261384000"/>
@@ -9,14 +9,14 @@
     <file name="nomq_preview_master_a-master.css" crc="4112527656" ref="index:3d-animation:portfolio:museumd:app-concept:coact:3d-modeling"/>
     <file name="index.css" crc="323053295" ref="index"/>
     <file name="nomq_index.css" crc="138103748" ref="index"/>
-    <file name="3d-animation.css" crc="237604976" ref="3d-animation"/>
-    <file name="nomq_3d-animation.css" crc="304879838" ref="3d-animation"/>
-    <file name="portfolio.css" crc="371796449" ref="portfolio"/>
-    <file name="nomq_portfolio.css" crc="217225255" ref="portfolio"/>
+    <file name="3d-animation.css" crc="449082355" ref="3d-animation"/>
+    <file name="nomq_3d-animation.css" crc="315840178" ref="3d-animation"/>
+    <file name="portfolio.css" crc="3791667522" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="391790025" ref="portfolio"/>
     <file name="museumd.css" crc="4207444145" ref="museumd"/>
     <file name="nomq_museumd.css" crc="3761391043" ref="museumd"/>
-    <file name="app-concept.css" crc="3801657828" ref="app-concept"/>
-    <file name="nomq_app-concept.css" crc="4201368819" ref="app-concept"/>
+    <file name="app-concept.css" crc="3894782798" ref="app-concept"/>
+    <file name="nomq_app-concept.css" crc="317368757" ref="app-concept"/>
     <file name="coact.css" crc="221792815" ref="coact"/>
     <file name="nomq_coact.css" crc="4238254416" ref="coact"/>
     <file name="3d-modeling.css" crc="3890859557" ref="3d-modeling"/>
@@ -41,54 +41,54 @@
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index:portfolio:3d-animation:app-concept:coact:museumd:3d-modeling"/>
     <file name="face.svg" crc="466511697" seo="true" ref="portfolio:3d-animation:index:app-concept:coact:museumd:3d-modeling">
-      <caption webpage="coact" alt=""/>
-      <caption webpage="coact" alt=""/>
       <caption webpage="3d-animation" alt=""/>
       <caption webpage="3d-animation" alt=""/>
-      <caption webpage="app-concept" alt=""/>
-      <caption webpage="app-concept" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="3d-modeling" alt=""/>
       <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="museumd" alt=""/>
       <caption webpage="museumd" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
     </file>
     <file name="face_poster_.png" crc="4036530203" ref="portfolio"/>
     <file name="asset-5.svg" crc="409031411" seo="true" ref="portfolio:3d-animation:index:app-concept:coact:museumd:3d-modeling">
-      <caption webpage="coact" alt=""/>
-      <caption webpage="coact" alt=""/>
       <caption webpage="3d-animation" alt=""/>
       <caption webpage="3d-animation" alt=""/>
-      <caption webpage="app-concept" alt=""/>
-      <caption webpage="app-concept" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="3d-modeling" alt=""/>
       <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="museumd" alt=""/>
       <caption webpage="museumd" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
     </file>
     <file name="asset 5_poster_.png" crc="95426589" ref="portfolio"/>
     <file name="loink.svg" crc="133207844" seo="true" ref="portfolio:3d-animation:index:app-concept:coact:museumd:3d-modeling">
-      <caption webpage="coact" alt=""/>
-      <caption webpage="coact" alt=""/>
       <caption webpage="3d-animation" alt=""/>
       <caption webpage="3d-animation" alt=""/>
-      <caption webpage="app-concept" alt=""/>
-      <caption webpage="app-concept" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="3d-modeling" alt=""/>
       <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="museumd" alt=""/>
       <caption webpage="museumd" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
     </file>
     <file name="loink_poster_.png" crc="3792108167" ref="portfolio"/>
     <file name="iphone_6_plus_perspective-gold.png" crc="4094313508" seo="true" ref="portfolio">
@@ -97,8 +97,8 @@
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="desktop hd.jpg" crc="329108393" seo="true" ref="app-concept">
-      <caption webpage="app-concept" alt=""/>
       <caption webpage="portfolio" alt=""/>
+      <caption webpage="app-concept" alt=""/>
     </file>
     <file name="screen shot 2018-03-12 at 82130 pm.jpg" crc="4059729591" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
@@ -109,26 +109,22 @@
       <caption webpage="portfolio" alt=""/>
     </file>
     <file name="asset-3.svg" crc="114235327" seo="true" ref="portfolio:3d-animation:index:app-concept:coact:museumd:3d-modeling">
-      <caption webpage="coact" alt=""/>
-      <caption webpage="coact" alt=""/>
-      <caption webpage="coact" alt=""/>
-      <caption webpage="coact" alt=""/>
       <caption webpage="3d-animation" alt=""/>
       <caption webpage="3d-animation" alt=""/>
       <caption webpage="3d-animation" alt=""/>
       <caption webpage="3d-animation" alt=""/>
-      <caption webpage="app-concept" alt=""/>
-      <caption webpage="app-concept" alt=""/>
-      <caption webpage="app-concept" alt=""/>
-      <caption webpage="app-concept" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="3d-modeling" alt=""/>
       <caption webpage="3d-modeling" alt=""/>
       <caption webpage="3d-modeling" alt=""/>
       <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -137,29 +133,29 @@
       <caption webpage="museumd" alt=""/>
       <caption webpage="museumd" alt=""/>
       <caption webpage="museumd" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
     </file>
     <file name="asset 3_poster_.png" crc="33576848" ref="portfolio"/>
     <file name="asset-4.svg" crc="4281987844" seo="true" ref="portfolio:3d-animation:index:app-concept:coact:museumd:3d-modeling">
-      <caption webpage="coact" alt=""/>
-      <caption webpage="coact" alt=""/>
-      <caption webpage="coact" alt=""/>
-      <caption webpage="coact" alt=""/>
       <caption webpage="3d-animation" alt=""/>
       <caption webpage="3d-animation" alt=""/>
       <caption webpage="3d-animation" alt=""/>
       <caption webpage="3d-animation" alt=""/>
-      <caption webpage="app-concept" alt=""/>
-      <caption webpage="app-concept" alt=""/>
-      <caption webpage="app-concept" alt=""/>
-      <caption webpage="app-concept" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="3d-modeling" alt=""/>
       <caption webpage="3d-modeling" alt=""/>
       <caption webpage="3d-modeling" alt=""/>
       <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -168,29 +164,29 @@
       <caption webpage="museumd" alt=""/>
       <caption webpage="museumd" alt=""/>
       <caption webpage="museumd" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
     </file>
     <file name="asset 4_poster_.png" crc="4009111024" ref="portfolio"/>
     <file name="asset-6.svg" crc="4179562396" seo="true" ref="portfolio:3d-animation:index:app-concept:coact:museumd:3d-modeling">
-      <caption webpage="coact" alt=""/>
-      <caption webpage="coact" alt=""/>
-      <caption webpage="coact" alt=""/>
-      <caption webpage="coact" alt=""/>
       <caption webpage="3d-animation" alt=""/>
       <caption webpage="3d-animation" alt=""/>
       <caption webpage="3d-animation" alt=""/>
       <caption webpage="3d-animation" alt=""/>
-      <caption webpage="app-concept" alt=""/>
-      <caption webpage="app-concept" alt=""/>
-      <caption webpage="app-concept" alt=""/>
-      <caption webpage="app-concept" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="3d-modeling" alt=""/>
       <caption webpage="3d-modeling" alt=""/>
       <caption webpage="3d-modeling" alt=""/>
       <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -199,29 +195,29 @@
       <caption webpage="museumd" alt=""/>
       <caption webpage="museumd" alt=""/>
       <caption webpage="museumd" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
     </file>
     <file name="asset 6_poster_.png" crc="3900247986" ref="portfolio"/>
     <file name="asset-52.svg" crc="266178332" seo="true" ref="portfolio:3d-animation:index:app-concept:coact:museumd:3d-modeling">
-      <caption webpage="coact" alt=""/>
-      <caption webpage="coact" alt=""/>
-      <caption webpage="coact" alt=""/>
-      <caption webpage="coact" alt=""/>
       <caption webpage="3d-animation" alt=""/>
       <caption webpage="3d-animation" alt=""/>
       <caption webpage="3d-animation" alt=""/>
       <caption webpage="3d-animation" alt=""/>
-      <caption webpage="app-concept" alt=""/>
-      <caption webpage="app-concept" alt=""/>
-      <caption webpage="app-concept" alt=""/>
-      <caption webpage="app-concept" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="3d-modeling" alt=""/>
       <caption webpage="3d-modeling" alt=""/>
       <caption webpage="3d-modeling" alt=""/>
       <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -230,6 +226,10 @@
       <caption webpage="museumd" alt=""/>
       <caption webpage="museumd" alt=""/>
       <caption webpage="museumd" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
     </file>
     <file name="asset 5_poster_2.png" crc="3862163613" ref="portfolio"/>
     <file name="c-u91078-fr.jpg" crc="4017094032" ref="portfolio"/>
@@ -624,12 +624,18 @@
     <file name="sharif-n-york-beuty-pass-108001-fullwireocc425x239.jpg" crc="4080769800" seo="true" ref="3d-modeling">
       <caption webpage="3d-modeling" alt=""/>
     </file>
+    <file name="arrow-down-on-black-circular-background.svg" crc="4003822089" seo="true" ref="portfolio:3d-animation">
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="arrow-down-on-black-circular-background_poster_.png" crc="3768279663" ref="portfolio"/>
   </folder>
-  <file name="index.html" crc="4180638471" seo="true" mt="1521705234337" redirect="true"/>
-  <file name="portfolio.html" crc="4232247710" seo="true" mt="1521705234337" redirect="true"/>
-  <file name="3d-animation.html" crc="4036641096" seo="true" mt="1521705534582" redirect="true"/>
-  <file name="app-concept.html" crc="4163044575" seo="true" mt="1521705234337" redirect="true"/>
-  <file name="coact.html" crc="354199405" seo="true" mt="1521705234337" redirect="true"/>
-  <file name="museumd.html" crc="175048456" seo="true" mt="1521705234337" redirect="true"/>
-  <file name="3d-modeling.html" crc="4088484264" seo="true" mt="1521705234337" redirect="true"/>
+  <file name="index.html" crc="56567184" seo="true" mt="1521722580212" redirect="true"/>
+  <file name="portfolio.html" crc="3953166674" seo="true" mt="1521722580212" redirect="true"/>
+  <file name="3d-animation.html" crc="355537227" seo="true" mt="1521722622851" redirect="true"/>
+  <file name="app-concept.html" crc="191181413" seo="true" mt="1521722580212" redirect="true"/>
+  <file name="coact.html" crc="202143487" seo="true" mt="1521722580212" redirect="true"/>
+  <file name="museumd.html" crc="33877692" seo="true" mt="1521722580212" redirect="true"/>
+  <file name="3d-modeling.html" crc="3966227232" seo="true" mt="1521722580212" redirect="true"/>
 </manifest>
