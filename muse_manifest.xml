@@ -1,78 +1,94 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sharifyork.com" resolutions="1x" timestamp="1521136508295">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sharifyork.com" resolutions="1x" timestamp="1521704150978">
   <folder name="assets">
     <file name="envelope.eps" crc="452320642" seo="true" mt="1520611264000"/>
     <file name="6320.eps" crc="4183151627" seo="true" mt="1501261384000"/>
   </folder>
-  <folder name="tablet">
-    <folder name="css">
-      <file name="3d-animation.css" crc="99782224" ref="tablet>3d-animation"/>
-      <file name="nomq_3d-animation.css" crc="3824530138" ref="tablet>3d-animation"/>
-      <file name="index.css" crc="99782224" ref="tablet>index"/>
-      <file name="portfolio.css" crc="99782224" ref="tablet>portfolio"/>
-    </folder>
-    <file name="index.html" crc="4034741122" seo="true" mt="1521060563865" redirect="false"/>
-    <file name="portfolio.html" crc="198573530" seo="true" mt="1521060563948" redirect="false"/>
-    <file name="3d-animation.html" crc="4244154790" seo="true" mt="1521060564033" redirect="false"/>
-  </folder>
   <folder name="css">
-    <file name="site_global.css" crc="3928792722"/>
-    <file name="master_a-master.css" crc="291075170" ref="index:3d-animation:portfolio"/>
-    <file name="nomq_preview_master_a-master.css" crc="4112527656" ref="index:3d-animation:portfolio"/>
-    <file name="index.css" crc="3911873191" ref="index"/>
-    <file name="nomq_index.css" crc="3903210143" ref="index"/>
-    <file name="3d-animation.css" crc="4290575769" ref="3d-animation"/>
-    <file name="nomq_3d-animation.css" crc="204359997" ref="3d-animation"/>
-    <file name="portfolio.css" crc="37595580" ref="portfolio"/>
-    <file name="nomq_portfolio.css" crc="467871383" ref="portfolio"/>
+    <file name="site_global.css" crc="355410612"/>
+    <file name="master_a-master.css" crc="4220294688" ref="index:3d-animation:portfolio:museumd:app-concept:coact:3d-modeling"/>
+    <file name="nomq_preview_master_a-master.css" crc="4112527656" ref="index:3d-animation:portfolio:museumd:app-concept:coact:3d-modeling"/>
+    <file name="index.css" crc="4213173568" ref="index"/>
+    <file name="nomq_index.css" crc="181465429" ref="index"/>
+    <file name="3d-animation.css" crc="29458429" ref="3d-animation"/>
+    <file name="nomq_3d-animation.css" crc="3994233444" ref="3d-animation"/>
+    <file name="portfolio.css" crc="369539741" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="3940687578" ref="portfolio"/>
+    <file name="museumd.css" crc="3804890287" ref="museumd"/>
+    <file name="nomq_museumd.css" crc="3823671116" ref="museumd"/>
+    <file name="app-concept.css" crc="200652258" ref="app-concept"/>
+    <file name="nomq_app-concept.css" crc="3762115156" ref="app-concept"/>
+    <file name="coact.css" crc="4136377447" ref="coact"/>
+    <file name="nomq_coact.css" crc="3801833944" ref="coact"/>
+    <file name="3d-modeling.css" crc="4185994644" ref="3d-modeling"/>
+    <file name="nomq_3d-modeling.css" crc="4213686360" ref="3d-modeling"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index:phone>portfolio:phone>3d-animation:tablet>index:tablet>portfolio:tablet>3d-animation:portfolio:3d-animation"/>
-    <file name="museutils.js" crc="3803043152" ref="phone>index:index:phone>portfolio:phone>3d-animation:tablet>index:tablet>portfolio:tablet>3d-animation:portfolio:3d-animation"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:index:phone>portfolio:phone>3d-animation:tablet>index:tablet>portfolio:tablet>3d-animation:portfolio:3d-animation"/>
-    <file name="museconfig.js" crc="4153641093" ref="phone>index:index:phone>portfolio:phone>3d-animation:tablet>index:tablet>portfolio:tablet>3d-animation:portfolio:3d-animation"/>
-    <file name="jquery.watch.js" crc="99325471" ref="phone>index:index:phone>portfolio:phone>3d-animation:tablet>index:tablet>portfolio:tablet>3d-animation:portfolio:3d-animation"/>
-    <file name="require.js" crc="4157109226" ref="phone>index:index:phone>portfolio:phone>3d-animation:tablet>index:tablet>portfolio:tablet>3d-animation:portfolio:3d-animation"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:portfolio:3d-animation"/>
-    <file name="webpro.js" crc="242022427" ref="index:portfolio:3d-animation"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="index:portfolio:3d-animation"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="index:portfolio:3d-animation"/>
-    <file name="touchswipe.js" crc="4066113679" ref="index:portfolio:3d-animation"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:portfolio:3d-animation"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:portfolio:3d-animation"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:3d-animation:app-concept:coact:museumd:3d-modeling"/>
+    <file name="museutils.js" crc="3803043152" ref="index:portfolio:3d-animation:app-concept:coact:museumd:3d-modeling"/>
+    <file name="whatinput.js" crc="86476730" ref="index:portfolio:3d-animation:app-concept:coact:museumd:3d-modeling"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:portfolio:3d-animation:app-concept:coact:museumd:3d-modeling"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:portfolio:3d-animation:app-concept:coact:museumd:3d-modeling"/>
+    <file name="require.js" crc="4157109226" ref="index:portfolio:3d-animation:app-concept:coact:museumd:3d-modeling"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:portfolio:3d-animation:app-concept:coact:museumd:3d-modeling"/>
+    <file name="webpro.js" crc="242022427" ref="index:portfolio:3d-animation:app-concept:coact:museumd:3d-modeling"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:portfolio:3d-animation:app-concept:coact:museumd:3d-modeling"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:portfolio:3d-animation:app-concept:coact:museumd:3d-modeling"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:portfolio:3d-animation:app-concept:coact:museumd:3d-modeling"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:portfolio:3d-animation:app-concept:coact:museumd:3d-modeling"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:portfolio:3d-animation:app-concept:coact:museumd:3d-modeling"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="portfolio"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:portfolio:3d-animation"/>
-    <file name="phone_view.png" crc="3979161187" seo="true" ref="portfolio">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="face.svg" crc="466511697" seo="true" ref="portfolio:3d-animation:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
+    <file name="blank.gif" crc="4208392903" ref="index:portfolio:3d-animation:app-concept:coact:museumd:3d-modeling"/>
+    <file name="face.svg" crc="466511697" seo="true" ref="portfolio:3d-animation:index:app-concept:coact:museumd:3d-modeling">
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
       <caption webpage="3d-animation" alt=""/>
       <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="museumd" alt=""/>
+      <caption webpage="museumd" alt=""/>
     </file>
     <file name="face_poster_.png" crc="4036530203" ref="portfolio"/>
-    <file name="asset-5.svg" crc="409031411" seo="true" ref="portfolio:3d-animation:index">
+    <file name="asset-5.svg" crc="409031411" seo="true" ref="portfolio:3d-animation:index:app-concept:coact:museumd:3d-modeling">
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="3d-animation" alt=""/>
-      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="museumd" alt=""/>
+      <caption webpage="museumd" alt=""/>
     </file>
     <file name="asset 5_poster_.png" crc="95426589" ref="portfolio"/>
-    <file name="loink.svg" crc="133207844" seo="true" ref="portfolio:3d-animation:index">
+    <file name="loink.svg" crc="133207844" seo="true" ref="portfolio:3d-animation:index:app-concept:coact:museumd:3d-modeling">
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="3d-animation" alt=""/>
-      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="museumd" alt=""/>
+      <caption webpage="museumd" alt=""/>
     </file>
     <file name="loink_poster_.png" crc="3792108167" ref="portfolio"/>
     <file name="iphone_6_plus_perspective-gold.png" crc="4094313508" seo="true" ref="portfolio">
@@ -80,10 +96,10 @@
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="desktop hd.jpg" crc="4144867930" seo="true" ref="portfolio">
+    <file name="desktop hd.jpg" crc="329108393" seo="true" ref="app-concept">
       <caption webpage="portfolio" alt=""/>
+      <caption webpage="app-concept" alt=""/>
     </file>
-    <file name="goldone-01-u41605.png" crc="3805242549" ref="portfolio"/>
     <file name="screen shot 2018-03-12 at 82130 pm.jpg" crc="4059729591" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
@@ -92,7 +108,23 @@
     <file name="c.jpg" crc="112160626" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="asset-3.svg" crc="114235327" seo="true" ref="portfolio:3d-animation:index">
+    <file name="asset-3.svg" crc="114235327" seo="true" ref="portfolio:3d-animation:index:app-concept:coact:museumd:3d-modeling">
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -101,13 +133,29 @@
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="3d-animation" alt=""/>
-      <caption webpage="3d-animation" alt=""/>
-      <caption webpage="3d-animation" alt=""/>
-      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="museumd" alt=""/>
+      <caption webpage="museumd" alt=""/>
+      <caption webpage="museumd" alt=""/>
+      <caption webpage="museumd" alt=""/>
     </file>
     <file name="asset 3_poster_.png" crc="33576848" ref="portfolio"/>
-    <file name="asset-4.svg" crc="4281987844" seo="true" ref="portfolio:3d-animation:index">
+    <file name="asset-4.svg" crc="4281987844" seo="true" ref="portfolio:3d-animation:index:app-concept:coact:museumd:3d-modeling">
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -116,13 +164,29 @@
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="3d-animation" alt=""/>
-      <caption webpage="3d-animation" alt=""/>
-      <caption webpage="3d-animation" alt=""/>
-      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="museumd" alt=""/>
+      <caption webpage="museumd" alt=""/>
+      <caption webpage="museumd" alt=""/>
+      <caption webpage="museumd" alt=""/>
     </file>
     <file name="asset 4_poster_.png" crc="4009111024" ref="portfolio"/>
-    <file name="asset-6.svg" crc="4179562396" seo="true" ref="portfolio:3d-animation:index">
+    <file name="asset-6.svg" crc="4179562396" seo="true" ref="portfolio:3d-animation:index:app-concept:coact:museumd:3d-modeling">
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -131,13 +195,29 @@
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="3d-animation" alt=""/>
-      <caption webpage="3d-animation" alt=""/>
-      <caption webpage="3d-animation" alt=""/>
-      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="museumd" alt=""/>
+      <caption webpage="museumd" alt=""/>
+      <caption webpage="museumd" alt=""/>
+      <caption webpage="museumd" alt=""/>
     </file>
     <file name="asset 6_poster_.png" crc="3900247986" ref="portfolio"/>
-    <file name="asset-52.svg" crc="266178332" seo="true" ref="portfolio:3d-animation:index">
+    <file name="asset-52.svg" crc="266178332" seo="true" ref="portfolio:3d-animation:index:app-concept:coact:museumd:3d-modeling">
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="3d-modeling" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -146,51 +226,410 @@
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
       <caption webpage="portfolio" alt=""/>
-      <caption webpage="3d-animation" alt=""/>
-      <caption webpage="3d-animation" alt=""/>
-      <caption webpage="3d-animation" alt=""/>
-      <caption webpage="3d-animation" alt=""/>
+      <caption webpage="museumd" alt=""/>
+      <caption webpage="museumd" alt=""/>
+      <caption webpage="museumd" alt=""/>
+      <caption webpage="museumd" alt=""/>
     </file>
     <file name="asset 5_poster_2.png" crc="3862163613" ref="portfolio"/>
-    <file name="desktop hd409x291.jpg" crc="380765905" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="phone_view-crop-u41597.png" crc="402752715" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="goldone-01-u416052.png" crc="149373157" ref="portfolio"/>
     <file name="c-u91078-fr.jpg" crc="4017094032" ref="portfolio"/>
-    <file name="phone_view-crop-u415972.png" crc="490026439" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="goldone-01-u416053.png" crc="4100295171" ref="portfolio"/>
     <file name="iphone_6_plus_perspective-gold389x292.png" crc="4057761174" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
-    <file name="desktop hd371x264.jpg" crc="525117302" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="phone_view-crop-u415973.png" crc="496828509" seo="true" ref="portfolio">
-      <caption webpage="portfolio" alt=""/>
-    </file>
-    <file name="goldone-01-u416054.png" crc="450006343" ref="portfolio"/>
     <file name="screen shot 2018-03-12 at 82130 pm424x209.jpg" crc="3784706110" seo="true" ref="portfolio">
       <caption webpage="portfolio" alt=""/>
     </file>
+    <file name="analytics.svg" crc="358397007" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="analytics_poster_.png" crc="3899442086" ref="portfolio"/>
+    <file name="menu-button-of-three-horizontal-lines.svg" crc="4146768748" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="menu-button-of-three-horizontal-lines_poster_.png" crc="114741338" ref="portfolio"/>
+    <file name="team.svg" crc="3969351456" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="team_poster_.png" crc="3781839315" ref="portfolio"/>
+    <file name="success.svg" crc="4184264524" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="success_poster_.png" crc="4008622238" ref="portfolio"/>
+    <file name="u73041-6.png" crc="46488145" ref="portfolio"/>
+    <file name="x_login_touch@2x.jpg" crc="32215188" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="x_feed_timeline – 1@3x.jpg" crc="62924152" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="group 12@2x-u124310.png" crc="316453043" ref="portfolio"/>
+    <file name="desktop hd-crop-u124341.jpg" crc="57025152" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="mobile-crop-u124352.jpg" crc="372466377" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="mobile-crop-u1243522.jpg" crc="372466377" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="desktop hd-crop-u1243412.jpg" crc="57025152" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="group 12@2x-u1243102.png" crc="259862111" ref="portfolio"/>
+    <file name="mobile-crop-u1243523.jpg" crc="372466377" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="desktop hd-crop-u1243413.jpg" crc="57025152" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="group 12@2x-u1243103.png" crc="259862111" ref="portfolio"/>
+    <file name="desktop hd-crop-u1243414.jpg" crc="3926066303" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="mobile-crop-u1243524.jpg" crc="372466377" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="group 12@2x-u1243104.png" crc="259862111" ref="portfolio"/>
+    <file name="ui_mobile_concept01.jpg" crc="3894205696" seo="true" ref="app-concept">
+      <caption webpage="app-concept" alt=""/>
+    </file>
+    <file name="sss.jpg" crc="3929275108" seo="true" ref="app-concept">
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+    </file>
+    <file name="tesla_uiconcept.jpg" crc="76731347" seo="true" ref="app-concept">
+      <caption webpage="app-concept" alt=""/>
+    </file>
+    <file name="tesla-model-s-touchscreen2.jpg" crc="4259823127" seo="true" ref="app-concept">
+      <caption webpage="app-concept" alt=""/>
+    </file>
+    <file name="ui_mobile_concept01734x551.jpg" crc="4151663084" seo="true" ref="app-concept">
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+    </file>
+    <file name="desktop hd728x517.jpg" crc="4078637863" seo="true" ref="app-concept">
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+    </file>
+    <file name="tesla_uiconcept731x486.jpg" crc="4069061552" seo="true" ref="app-concept">
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+    </file>
+    <file name="tesla-model-s-touchscreen2731x486.jpg" crc="4165153654" seo="true" ref="app-concept">
+      <caption webpage="app-concept" alt=""/>
+      <caption webpage="app-concept" alt=""/>
+    </file>
+    <file name="ui_mobile_concept01461x346.jpg" crc="4138374126" seo="true" ref="app-concept">
+      <caption webpage="app-concept" alt=""/>
+    </file>
+    <file name="sss457x325.jpg" crc="252394924" seo="true" ref="app-concept">
+      <caption webpage="app-concept" alt=""/>
+    </file>
+    <file name="desktop hd454x323.jpg" crc="97791045" seo="true" ref="app-concept">
+      <caption webpage="app-concept" alt=""/>
+    </file>
+    <file name="tesla_uiconcept456x303.jpg" crc="4237359360" seo="true" ref="app-concept">
+      <caption webpage="app-concept" alt=""/>
+    </file>
+    <file name="tesla-model-s-touchscreen2460x306.jpg" crc="174951358" seo="true" ref="app-concept">
+      <caption webpage="app-concept" alt=""/>
+    </file>
+    <file name="psd-template_frosty01-u127957.png" crc="4247672335" ref="coact"/>
+    <file name="x_login_touch@3x.jpg" crc="4073892799" seo="true" ref="coact">
+      <caption webpage="coact" alt=""/>
+    </file>
+    <file name="x_homescreen@3x.jpg" crc="252404064" seo="true" ref="coact">
+      <caption webpage="coact" alt=""/>
+    </file>
+    <file name="x_finder@3x.jpg" crc="181305732" seo="true" ref="coact">
+      <caption webpage="coact" alt=""/>
+    </file>
+    <file name="x_feed_timeline – 1@3x2.jpg" crc="353850568" seo="true" ref="coact">
+      <caption webpage="coact" alt=""/>
+    </file>
+    <file name="linkd_front01.jpg" crc="4008030731" seo="true" ref="coact">
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+    </file>
+    <file name="color_scheme-u128032.png" crc="156224504" ref="coact"/>
+    <file name="group 12@3x-u128056.png" crc="454682955" ref="coact"/>
+    <file name="group 13@3x-u128070.png" crc="3938911696" ref="coact"/>
+    <file name="x_feed_timeline@3x.jpg" crc="383556520" seo="true" ref="coact">
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+    </file>
+    <file name="messages@3x.jpg" crc="4055479959" seo="true" ref="coact">
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+    </file>
+    <file name="sign up@3x.jpg" crc="357769832" seo="true" ref="coact">
+      <caption webpage="coact" alt=""/>
+    </file>
+    <file name="sign in@3x.jpg" crc="4081146311" seo="true" ref="coact">
+      <caption webpage="coact" alt=""/>
+    </file>
+    <file name="psd-template_frosty01-u1279572.png" crc="4247672335" ref="coact"/>
+    <file name="x_login_touch@3x158x343.jpg" crc="438711893" seo="true" ref="coact">
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+    </file>
+    <file name="x_homescreen@3x158x343.jpg" crc="322832811" seo="true" ref="coact">
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+    </file>
+    <file name="x_finder@3x158x343.jpg" crc="486802143" seo="true" ref="coact">
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+    </file>
+    <file name="x_feed_timeline – 1@3x158x343.jpg" crc="4237930198" seo="true" ref="coact">
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+    </file>
+    <file name="color_scheme-u1280322.png" crc="156224504" ref="coact"/>
+    <file name="group 12@3x-u1280562.png" crc="454682955" ref="coact"/>
+    <file name="group 13@3x-u1280702.png" crc="3938911696" ref="coact"/>
+    <file name="x_feed_timeline@3x371x802.jpg" crc="3892569576" seo="true" ref="coact">
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+    </file>
+    <file name="sign up@3x286x618.jpg" crc="18740801" seo="true" ref="coact">
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+    </file>
+    <file name="sign in@3x286x618.jpg" crc="4101008522" seo="true" ref="coact">
+      <caption webpage="coact" alt=""/>
+      <caption webpage="coact" alt=""/>
+    </file>
+    <file name="psd-template_frosty01-u1279573.png" crc="4247672335" ref="coact"/>
+    <file name="color_scheme-u1280323.png" crc="156224504" ref="coact"/>
+    <file name="group 12@3x-u1280563.png" crc="454682955" ref="coact"/>
+    <file name="group 13@3x-u1280703.png" crc="3938911696" ref="coact"/>
+    <file name="psd-template_frosty01-u1279574.png" crc="4247672335" ref="coact"/>
+    <file name="x_login_touch@3x99x213.jpg" crc="94482170" seo="true" ref="coact">
+      <caption webpage="coact" alt=""/>
+    </file>
+    <file name="x_homescreen@3x99x213.jpg" crc="4007243390" seo="true" ref="coact">
+      <caption webpage="coact" alt=""/>
+    </file>
+    <file name="x_finder@3x99x213.jpg" crc="398573591" seo="true" ref="coact">
+      <caption webpage="coact" alt=""/>
+    </file>
+    <file name="x_feed_timeline – 1@3x99x213.jpg" crc="3892069345" seo="true" ref="coact">
+      <caption webpage="coact" alt=""/>
+    </file>
+    <file name="linkd_front01450x362.jpg" crc="4158690109" seo="true" ref="coact">
+      <caption webpage="coact" alt=""/>
+    </file>
+    <file name="color_scheme-u1280324.png" crc="4173236862" ref="coact"/>
+    <file name="group 12@3x-u1280564.png" crc="454682955" ref="coact"/>
+    <file name="group 13@3x-u1280704.png" crc="3938911696" ref="coact"/>
+    <file name="sign up@3x162x351.jpg" crc="269226143" seo="true" ref="coact">
+      <caption webpage="coact" alt=""/>
+    </file>
+    <file name="sign in@3x162x351.jpg" crc="4264186081" seo="true" ref="coact">
+      <caption webpage="coact" alt=""/>
+    </file>
+    <file name="e26ec15168686558f6b854a01a2.jpg" crc="369447899" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="46fc8b5168686558f6b8549f833.jpg" crc="323268138" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="8e387d5168686558f6b854a043b.jpg" crc="3901509660" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+      <caption webpage="museumd" alt=""/>
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="a8dbd45168686558f6b854a1443.jpg" crc="4077965835" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="6d07f25168686558f6b8549fb01.jpg" crc="53436919" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="4f3c4b5168686558f6b854a231e.jpg" crc="329549901" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="9bf0c35168686558f6b8549e7e0.jpg" crc="3793777673" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="9223115168686558f6b854a0827.jpg" crc="536566122" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="8eec1d5168686558f6b8549f236.jpg" crc="4252123696" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="66e45e5168686558f6b854a0d3a.jpg" crc="4245465042" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="98e1f05168686558f6b854a1e57.jpg" crc="3837723242" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="fe1fa65168686558f6b854a1942.jpg" crc="234970232" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="8e65365168686558f6b8549fde1.jpg" crc="1671974" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="cdd4065168686558f6b854a1215.jpg" crc="338987004" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="e26ec15168686558f6b854a01a2768x512.jpg" crc="66590807" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="46fc8b5168686558f6b8549f833768x512.jpg" crc="40241335" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="a8dbd45168686558f6b854a1443768x512.jpg" crc="4164662185" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="6d07f25168686558f6b8549fb01767x512.jpg" crc="416080023" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="4f3c4b5168686558f6b854a231e767x512.jpg" crc="464163487" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="9bf0c35168686558f6b8549e7e0767x512.jpg" crc="4201956880" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="9223115168686558f6b854a0827767x512.jpg" crc="3972490548" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="8eec1d5168686558f6b8549f236767x512.jpg" crc="4139727479" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="66e45e5168686558f6b854a0d3a776x518.jpg" crc="3887707083" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="98e1f05168686558f6b854a1e57764x510.jpg" crc="3776750662" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="fe1fa65168686558f6b854a1942756x504.jpg" crc="170273543" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="8e65365168686558f6b8549fde1767x512.jpg" crc="4054914838" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="cdd4065168686558f6b854a1215756x504.jpg" crc="4110288457" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="e26ec15168686558f6b854a01a2450x300.jpg" crc="147223926" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="8e387d5168686558f6b854a043b447x299.jpg" crc="4282153938" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="46fc8b5168686558f6b8549f833448x299.jpg" crc="8674374" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="a8dbd45168686558f6b854a1443448x299.jpg" crc="447280199" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="6d07f25168686558f6b8549fb01448x299.jpg" crc="4066117600" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="4f3c4b5168686558f6b854a231e448x299.jpg" crc="4046333660" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="9bf0c35168686558f6b8549e7e0451x301.jpg" crc="4017865903" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="9223115168686558f6b854a0827451x301.jpg" crc="3909481596" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="8eec1d5168686558f6b8549f236450x300.jpg" crc="3778960570" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="66e45e5168686558f6b854a0d3a450x300.jpg" crc="471159660" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="98e1f05168686558f6b854a1e57450x300.jpg" crc="235473486" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="fe1fa65168686558f6b854a1942450x300.jpg" crc="339009713" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="8e65365168686558f6b8549fde1450x300.jpg" crc="4163430158" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="cdd4065168686558f6b854a1215450x300.jpg" crc="4118996765" seo="true" ref="museumd">
+      <caption webpage="museumd" alt=""/>
+    </file>
+    <file name="sharif-n-york-beuty-pass-108001-fullbeuty.jpg" crc="135819467" seo="true" ref="3d-modeling">
+      <caption webpage="3d-modeling" alt=""/>
+    </file>
+    <file name="sharif-n-york-beuty-pass-108001fullocc.jpg" crc="3766456293" seo="true" ref="3d-modeling">
+      <caption webpage="3d-modeling" alt=""/>
+    </file>
+    <file name="sharif-n-york-beuty-pass-108001-fullwireocc.jpg" crc="4285349214" seo="true" ref="3d-modeling">
+      <caption webpage="3d-modeling" alt=""/>
+    </file>
+    <file name="sharif-n-york-beuty-pass-108001-fullbeuty736x414.jpg" crc="269442174" seo="true" ref="3d-modeling">
+      <caption webpage="3d-modeling" alt=""/>
+    </file>
+    <file name="sharif-n-york-beuty-pass-108001fullocc737x415.jpg" crc="217588508" seo="true" ref="3d-modeling">
+      <caption webpage="3d-modeling" alt=""/>
+    </file>
+    <file name="sharif-n-york-beuty-pass-108001-fullwireocc724x408.jpg" crc="4249119319" seo="true" ref="3d-modeling">
+      <caption webpage="3d-modeling" alt=""/>
+    </file>
+    <file name="sharif-n-york-beuty-pass-108001-fullbeuty460x259.jpg" crc="360372459" seo="true" ref="3d-modeling">
+      <caption webpage="3d-modeling" alt=""/>
+    </file>
+    <file name="sharif-n-york-beuty-pass-108001fullocc461x259.jpg" crc="393169958" seo="true" ref="3d-modeling">
+      <caption webpage="3d-modeling" alt=""/>
+    </file>
+    <file name="sharif-n-york-beuty-pass-108001-fullwireocc453x255.jpg" crc="4055459483" seo="true" ref="3d-modeling">
+      <caption webpage="3d-modeling" alt=""/>
+    </file>
+    <file name="sharif-n-york-beuty-pass-108001-fullbeuty432x243.jpg" crc="178061365" seo="true" ref="3d-modeling">
+      <caption webpage="3d-modeling" alt=""/>
+    </file>
+    <file name="sharif-n-york-beuty-pass-108001fullocc432x243.jpg" crc="423464168" seo="true" ref="3d-modeling">
+      <caption webpage="3d-modeling" alt=""/>
+    </file>
+    <file name="sharif-n-york-beuty-pass-108001-fullwireocc425x239.jpg" crc="4080769800" seo="true" ref="3d-modeling">
+      <caption webpage="3d-modeling" alt=""/>
+    </file>
   </folder>
-  <folder name="phone">
-    <folder name="css">
-      <file name="index.css" crc="381222428" ref="phone>index"/>
-      <file name="3d-animation.css" crc="381222428" ref="phone>3d-animation"/>
-      <file name="nomq_3d-animation.css" crc="3824530138" ref="phone>3d-animation"/>
-      <file name="portfolio.css" crc="381222428" ref="phone>portfolio"/>
-    </folder>
-    <file name="index.html" crc="304887985" seo="true" mt="1521060563211" redirect="false"/>
-    <file name="portfolio.html" crc="311489318" seo="true" mt="1521060563503" redirect="false"/>
-    <file name="3d-animation.html" crc="3903248258" seo="true" mt="1521060563539" redirect="false"/>
-  </folder>
-  <file name="index.html" crc="55345264" seo="true" mt="1521136439109" redirect="true"/>
-  <file name="portfolio.html" crc="4086406310" seo="true" mt="1521136423968" redirect="true"/>
-  <file name="3d-animation.html" crc="4174152265" seo="true" mt="1521136423968" redirect="true"/>
+  <file name="index.html" crc="314332250" seo="true" mt="1521704053939" redirect="true"/>
+  <file name="portfolio.html" crc="196413777" seo="true" mt="1521704036720" redirect="true"/>
+  <file name="3d-animation.html" crc="3991611445" seo="true" mt="1521704036720" redirect="true"/>
+  <file name="app-concept.html" crc="3845576682" seo="true" mt="1521704036720" redirect="true"/>
+  <file name="coact.html" crc="4263478300" seo="true" mt="1521704036720" redirect="true"/>
+  <file name="museumd.html" crc="533357083" seo="true" mt="1521704036720" redirect="true"/>
+  <file name="3d-modeling.html" crc="59578055" seo="true" mt="1521704036720" redirect="true"/>
 </manifest>
